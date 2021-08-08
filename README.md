@@ -11,3 +11,6 @@ Start your application at http://localhost:3000.
 https://vercel.com/guides/nextjs-prisma-postgres
 
 gitで管理スタート
+
+Next Authの追加
+
