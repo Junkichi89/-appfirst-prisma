@@ -9,4 +9,5 @@ npm run dev
 Start your application at http://localhost:3000.
 
 https://vercel.com/guides/nextjs-prisma-postgres
-ここまで
+
+gitで管理スタート
